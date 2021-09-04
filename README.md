@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 
 [![taekkim's 42 stats](https://badge42.herokuapp.com/api/stats/taekkim)](https://github.com/JaeSeoKim/badge42)
+
+**experience**
+
+  - 42 Seoul(2020.03 ~)
+
+  - Pseudo-lab Data Science Fellowship(2021.08 ~) 
+
+  - Aiffel (2021.09 ~)
