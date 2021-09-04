@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying on Aiffel, Pseudo-lab, 42Seoul
 - 🌱 I’m currently learning AI/ML/DL
 - 📫 How to reach me: brandon4038@gmail.com
 
@@ -9,6 +8,7 @@
 
 Here are some ideas to get you started:
 
+- 🔭 I’m currently studying on Aiffel, Pseudo-lab, 42Seoul
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
