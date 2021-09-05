@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 [![taekkim's 42 stats](https://badge42.herokuapp.com/api/stats/taekkim)](https://github.com/JaeSeoKim/badge42)
 
-### Experiences
+## Experiences
 
-**42 Seoul(2020.03 ~)**
+### 42 Seoul(2020.03 ~)
   - 42 Seoul [website](https://42seoul.kr/seoul42/main/view)
   - Computer science, Peer-Learning
   - Shell, C, C++, Docker, Kubernetes, Typescript, NestJS
@@ -34,12 +34,12 @@ Here are some ideas to get you started:
       - C, socket, HTTP, RFC
       - [repo](https://github.com/cozytk/webserv)
 
-**Pseudo-lab Data Science Fellowship(2021.08 ~)**
+### Pseudo-lab Data Science Fellowship(2021.08 ~)
   - Pseudo-lab(가짜연구소) [website](https://pseudo-lab.com/)
   - Career Track : Data Scientist - Datacamp [website](https://www.datacamp.com/tracks/data-scientist-with-python)
   - Data Manuplation, Data Visualization, Data Science, Data Cleaning, Data Analysis, Machine Learning
   - Python, Pandas, NumPy, Maplotlib, scikit-learn
   - [repo](https://github.com/cozytk/datacamp_data_science)
 
-**Aiffel (2021.09 ~)**
+### Aiffel (2021.09 ~)
   - Aiffel [website](https://aiffel.io/)
