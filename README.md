@@ -21,22 +21,23 @@ Here are some ideas to get you started:
 ### Experiences
 
 **42 Seoul(2020.03 ~)**`
-  - 42 Seoul [Link](https://42seoul.kr/seoul42/main/view)
+  - 42 Seoul [website](https://42seoul.kr/seoul42/main/view)
   - Computer science, Peer-Learning
   - Shell, C, C++, Docker, Kubernetes, Typescript, NestJS
   - Projects
     * ft_transcendence: Build a website for the ping contest with admin view, chat with moderators, real-time multiplayer online games
       - Typescript, React, NestJS, PostgreSQL, Docker, Nginx
-      - [Link](https://github.com/42seoul-NULL/bye_blackhole)
+      - [repo](https://github.com/42seoul-NULL/bye_blackhole)
     * Webserv: Build a asynchronous multiplexed I/O server
       - C, socket, HTTP, RFC
-      - [Link](https://github.com/cozytk/webserv)
+      - [repo](https://github.com/cozytk/webserv)
 
 **Pseudo-lab Data Science Fellowship(2021.08 ~)**
-  - Pseudo-lab(가짜연구소) [Link](https://pseudo-lab.com/)
-  - Career Track : Data Scientist - Datacamp [Link](https://www.datacamp.com/tracks/data-scientist-with-python)
+  - Pseudo-lab(가짜연구소) [website](https://pseudo-lab.com/)
+  - Career Track : Data Scientist - Datacamp [website](https://www.datacamp.com/tracks/data-scientist-with-python)
   - Data Manuplation, Data Visualization, Data Science, Data Cleaning, Data Analysis, Machine Learning
   - Python, Pandas, NumPy, Maplotlib, scikit-learn
+  - [repo](https://github.com/cozytk/datacamp_data_science)
 
 **Aiffel (2021.09 ~)**
-  - Aiffel [Link](https://aiffel.io/)
+  - Aiffel [website](https://aiffel.io/)
