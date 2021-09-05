@@ -20,15 +20,17 @@ Here are some ideas to get you started:
 
 ### Experiences
 
-**42 Seoul(2020.03 ~)**`
+**42 Seoul(2020.03 ~)**
   - 42 Seoul [website](https://42seoul.kr/seoul42/main/view)
   - Computer science, Peer-Learning
   - Shell, C, C++, Docker, Kubernetes, Typescript, NestJS
   - Projects
-    * ft_transcendence: Build a website for the ping contest with admin view, chat with moderators, real-time multiplayer online games
+    * **ft_transcendence**
+      - Build a website for the ping contest with admin view, chat with moderators, real-time multiplayer online games
       - Typescript, React, NestJS, PostgreSQL, Docker, Nginx
       - [repo](https://github.com/42seoul-NULL/bye_blackhole)
-    * Webserv: Build a asynchronous multiplexed I/O server
+    * **Webserv**
+      - Build a asynchronous multiplexed I/O server
       - C, socket, HTTP, RFC
       - [repo](https://github.com/cozytk/webserv)
 
