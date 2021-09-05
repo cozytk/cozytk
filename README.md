@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ### 42 Seoul(2020.03 ~)
   - 42 Seoul [website](https://42seoul.kr/seoul42/main/view)
   - Computer science, Peer-Learning
-  - Shell, C, C++, Docker, Kubernetes, Typescript, NestJS
+  - **Shell**, **C**, **C++**, **Docker**, Kubernetes, Typescript, NestJS
   - Projects
     * **ft_transcendence**
       - Build a website for the ping contest with admin view, chat with moderators, real-time multiplayer online games
