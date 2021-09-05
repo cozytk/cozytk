@@ -18,10 +18,15 @@ Here are some ideas to get you started:
 
 [![taekkim's 42 stats](https://badge42.herokuapp.com/api/stats/taekkim)](https://github.com/JaeSeoKim/badge42)
 
-**Experiences**
+### Experiences
 
-  - 42 Seoul(2020.03 ~)
+**42 Seoul(2020.03 ~)**
+  - Computer science, Peer-Learning
+  - Shell, C, C++, Docker, Kubernetes, Typescript, NestJS
 
-  - Pseudo-lab Data Science Fellowship(2021.08 ~) 
+**Pseudo-lab Data Science Fellowship(2021.08 ~)**
+  - Career Track : Data Scientist - Datacamp [Link](https://www.datacamp.com/tracks/data-scientist-with-python)
+  - Data Manuplation, Data Visualization, Data Science, Data Cleaning, Data Analysis, Machine Learning
+  - Python, Pandas, NumPy, Maplotlib, scikit-learn
 
-  - Aiffel (2021.09 ~)
+**Aiffel (2021.09 ~)**
