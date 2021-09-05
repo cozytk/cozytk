@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   - [repo](https://github.com/cozytk/datacamp_data_science)
 
 ### 42 Seoul(2020.03 ~)
-  - 42 Seoul [website](https://42seoul.kr/seoul42/main/view)
+  - 42 Seoul (id: taekkim) [website](https://42seoul.kr/seoul42/main/view)
   - Computer science, Peer-Learning
   - ***Shell***, ***C***, ***C++***, ***Docker***, Kubernetes, Typescript, NestJS
   - Projects
