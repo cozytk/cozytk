@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Aiffel (2021.09 ~)
   - Aiffel [website](https://aiffel.io/)
-  - 
+ 
 ### Pseudo-lab Data Science Fellowship(2021.08 ~)
   - Pseudo-lab(가짜연구소) [website](https://pseudo-lab.com/)
   - Career Track : Data Scientist - Datacamp [website](https://www.datacamp.com/tracks/data-scientist-with-python)
