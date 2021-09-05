@@ -34,8 +34,7 @@ Here are some ideas to get you started:
   - 42 Seoul (id: taekkim) [website](https://42seoul.kr/seoul42/main/view)
   - Computer science, Peer-Learning
   - ***Shell***, ***C***, ***C++***, ***Docker***, Kubernetes, Typescript, NestJS
-  <details markdown="1">
-  <summary>- Projects</summary>
+  - Projects
     * ***ft_transcendence***
       - Build a website for the ping contest with admin view, chat with moderators, real-time multiplayer online games
       - Typescript, React, NestJS, PostgreSQL, Docker, Nginx
@@ -44,4 +43,3 @@ Here are some ideas to get you started:
       - Build a asynchronous multiplexed I/O server
       - C, socket, HTTP, RFC
       - [repo](https://github.com/cozytk/webserv)
-   <details>
