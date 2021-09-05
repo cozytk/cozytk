@@ -41,5 +41,5 @@ Here are some ideas to get you started:
       - [repo](https://github.com/42seoul-NULL/bye_blackhole)
     * ***Webserv***
       - Build a asynchronous multiplexed I/O server
-      - C, socket, HTTP, RFC
+      - C++, socket, HTTP, RFC
       - [repo](https://github.com/cozytk/webserv)
