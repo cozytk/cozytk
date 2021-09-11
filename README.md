@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 [![taekkim's 42 stats](https://badge42.herokuapp.com/api/stats/taekkim)](https://github.com/JaeSeoKim/badge42)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cozytk&layout=compact&hide=Jupyter_Notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cozytk&layout=compact&hide=jupyter_notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Experiences
 
