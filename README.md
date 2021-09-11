@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 [![taekkim's 42 stats](https://badge42.herokuapp.com/api/stats/taekkim)](https://github.com/JaeSeoKim/badge42)
+[![cozytk's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozytk)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Experiences
 
