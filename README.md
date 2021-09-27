@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 ### Aiffel (2021.09 ~)
   - Aiffel [website](https://aiffel.io/)
+  - AI/ML/DL
+  - Effective python, cs231n, ... (ongoing)
  
 ### Pseudo-lab Data Science Fellowship(2021.08 ~)
   - Pseudo-lab(가짜연구소) [website](https://pseudo-lab.com/)
