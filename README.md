@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![taekkim's 42 stats](https://badge42.herokuapp.com/api/stats/taekkim)](https://github.com/JaeSeoKim/badge42)   
+[![taekkim's 42 stats](https://badge42.vercel.app/api/v2/cl1ml1fv7001109l4ccpagelk/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
+
 
 ## Experiences
 
