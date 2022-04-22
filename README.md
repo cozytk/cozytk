@@ -12,5 +12,5 @@
 - [DataCamp Donates - Data scientist track X PseudoLab](https://github.com/hwaneest/DataCamp_Donates_2021) (21.09 ~ 22.01) `DS`
   - [Covid19-dashboard](https://github.com/cozytk/covid_dashboard) : Provides COVID-19 status and analysis
 - MLOps Study Group (21.12 ~ ongoing) `MLOps` `DE`
-  - [[Lecture] Full stack deep learning in UC Berkley](https://recondite-raft-db3.notion.site/1a2945a573f940258a0f5befa3b9b87e)
+  - [[Lecture] Full stack deep learning in UC Berkley](https://mlops-study-group.notion.site/Full-Stack-Deep-Learning-1a2945a573f940258a0f5befa3b9b87e)
   - [[Book] Data intensive application design](https://www.notion.so/6ba35d050a62435a935edda9b33bf77f)
