@@ -1,9 +1,10 @@
+### Goal
+- Solving problems by leveraging **SW** and **ML** without relying on tools
+
+
 ### I'm...
 - Junior learner of Apple Developer Academy @ POSTECH
 - Contributing [oslo](https://github.com/tunib-ai/oslo/pull/55), *a large-scale transformer optimization framework*, for [multilingual-transfer project](https://github.com/EleutherAI/multilingual-transfer) with EluetherAI
-
-### Goal
-- Solving problems by leveraging SW and ML without relying on tools
 
 ### Experience
 - [42Seoul](https://github.com/cozytk/42seoul) (20.01 ~ ongoing) `SW`
